@@ -89,6 +89,8 @@ Looking for information on using Windows containers?
     [**Docker Hub**](https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
     It typically downloads to your `Downloads` folder, or you can run it from
     the recent downloads bar at the bottom of your web browser.
+    
+    Dependening on your Windows environment you may need to run the installer by right clicking on the Installer file and selecting **Run as Administrator**.
 
 2. When prompted, ensure the **Enable Hyper-V Windows Features** or the **Install required Windows components for WSL 2** option is selected on the Configuration page.
 
